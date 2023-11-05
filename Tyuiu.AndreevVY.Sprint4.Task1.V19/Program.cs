@@ -13,7 +13,7 @@ namespace Tyuiu.AndreevVY.Sprint4.Task1.V19
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Андреев В.Ю | ИИПб-23-1";
+            Console.Title = "Спринт #4 | Выполнил: Андреев В.Ю | Смарт-Б-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы. (ввод с клавиатуры)                           *");
