@@ -12,7 +12,7 @@ namespace Tyuiu.AndreevVY.Sprint4.Task4.V21
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #4 | Выполнила: Андреев В.Ю. | Смарт-Б-23-1";
+            Console.Title = "Спринт #4 | Выполнил: Андреев В.Ю. | Смарт-Б-23-1";
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* Спринт #4                                                                    *");
             Console.WriteLine("* Тема: Двумерные массивы. (ввод с клавиатуры)                                 *");
