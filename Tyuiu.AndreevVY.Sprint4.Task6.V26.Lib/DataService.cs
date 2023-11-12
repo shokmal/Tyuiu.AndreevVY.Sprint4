@@ -11,7 +11,7 @@ namespace Tyuiu.AndreevVY.Sprint4.Task6.V26.Lib
     {
         public string[] Calculate(string[] array)
         {
-            string[] city = Array.FindAll(array, x => x.Length > 5);
+            string[] city = Array.FindAll(array,x => x.Length > 5);
             return city;
         }
     }

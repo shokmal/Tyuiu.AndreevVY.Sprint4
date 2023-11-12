@@ -12,7 +12,7 @@ namespace Tyuiu.AndreevVY.Sprint4.Task6.V26.Test
         {
             DataService ds = new DataService();
 
-            string[] city = { "Тюмень", "Тамбов", "Томск", "Омск", "Орёл" };
+            string[] city = { "Тюмень", "Тамбов", "Томск" , "Омск", "Орёл" };
             string[] res = ds.Calculate(city);
             string[] wait = { "Тюмень", "Тамбов" };
             CollectionAssert.AreEqual(wait, res);
